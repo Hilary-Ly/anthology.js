@@ -2,6 +2,8 @@
 
 Here you will find a list of the articles and various readings as well as some people and blogs we think you should follow; after all, JavaScript is a massive community with many thought leaders!
 
+The goal: Turn this into a nice website.
+
 ## Books
 
 ### JavaScript
