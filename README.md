@@ -1,6 +1,6 @@
 # Anthology.js: The Fullstack Academy Store
 
-Here you will find a list of the articles and various readings you will or have encountered as well as some people and blogs we think you should follow; after all, JavaScript is a massive community with many thought leaders!
+Here you will find a list of the articles and various readings as well as some people and blogs we think you should follow; after all, JavaScript is a massive community with many thought leaders!
 
 # Github Repos
 
@@ -13,7 +13,7 @@ Exactly as it says!
 
 ### Brandon Eich
 
-Who else is better to follow than the creator of JavaScript himself as well as the co-founder and former CTO of Mozilla?
+Who else is better to follow than the creator of JavaScript himself as well as the co-founder and former CTO of Mozilla
 
 [Twitter](https://twitter.com/BrandonEich)
 
