@@ -51,6 +51,16 @@ A nice complement to Cracking the Coding Interview
 
 Commonly referred to as CLRS (authors' last names), this is the bible of Algorithms at a monstrous 1300+ pages. 
 
+### Other
+
+[Soft Skills](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+
+A great guide on more "soft skills" in a life of a professional developer. Topics covered include productivity, career options, how to learn, even personal finance
+
+[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+
+A timeless book on software project management. A list of essays that draw from experience of being a project manager and how systems scale or don't. This is more for leadership roles but we all know you will be leaders in software development one day. So, it's good to get started.
+
 
 ## Github Repos
 
@@ -114,81 +124,81 @@ Verou is the creator of the book CSS Secrets. It's not JavaScript but it will he
 
 ### JavaScript
 
-[The Completely JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+- [The Completely JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 
 More a book than an article but it is published on FreeCodeCamp's Medium channel. But this is a fantastic read on all the fundamentals of JavaScript.
 
 ### React
 
-[The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+- [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 
 More book than article, it is published on the FreeCodeCamp Medium. A very well published guide on React.
 
-[Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)
+- [Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)
 
 If you're trying to get a re-intro, this is a good article.
 
-[React Lifecycle Method Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- [React Lifecycle Method Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
-[React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
+- [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 
 Pretty much exactly as it says. A really nice resource. 
 
-[Understanding React v16.4+ New Lifecycle Methods](https://blog.bitsrc.io/understanding-react-v16-4-new-component-lifecycle-methods-fa7b224efd7d)
+- [Understanding React v16.4+ New Lifecycle Methods](https://blog.bitsrc.io/understanding-react-v16-4-new-component-lifecycle-methods-fa7b224efd7d)
 
 An extension to the one above.
 
-[The (new) React Lifecycle Methods in Plain, Approachable Language](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
+- [The (new) React Lifecycle Methods in Plain, Approachable Language](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
 
 A longer read but still a great article.
 
-[Deep Dive into the React Lifecycle Methods](https://www.youtube.com/watch?v=7PpEQMdBIF0)
+- [Deep Dive into the React Lifecycle Methods](https://www.youtube.com/watch?v=7PpEQMdBIF0)
 
 A good video that is around 30 minutes long to describe the React Lifecycle Methods
 
-[React 16 for Everyone #6 - Lifecycle Methods](https://www.youtube.com/watch?v=9kSXwj_K-6o)
+- [React 16 for Everyone #6 - Lifecycle Methods](https://www.youtube.com/watch?v=9kSXwj_K-6o)
 
 A more bit sized video at around 12 minutes long.
 
-[Getting Started with React-Redux](https://hackernoon.com/getting-started-with-react-redux-1baae4dcb99b)
+- [Getting Started with React-Redux](https://hackernoon.com/getting-started-with-react-redux-1baae4dcb99b)
 
-[The Complete Guide to Forms in React](https://medium.com/@agoiabeladeyemi/the-complete-guide-to-forms-in-react-d2ba93f32825)
+- [The Complete Guide to Forms in React](https://medium.com/@agoiabeladeyemi/the-complete-guide-to-forms-in-react-d2ba93f32825)
 
 
 
 
 ### Node
 
-[What the Heck is Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [What the Heck is Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 An excellent talk about how the event loop works in JavaScript. I'd argue probably one of the only talks you'd need to understand asynchronicity in JavaScript.
 
-[The Definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+- [The Definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 Again, same idea as the handbooks above: more book than article but fantastic nonetheless.
 
 
 ### Data Structures and Algorithms
 
-[10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+- [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 
 If you're a visual learner, then this article is definitely for you. 
 
 ### Redux 
 
-[When Do I Know I'm Ready For Redux?](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f)
+- [When Do I Know I'm Ready For Redux?](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f)
 
 An excellent article on when you should start thinking about Redux, how it works, and a scenario that popped up for the author on when they started using Redux.
 
-[Three Principles](https://redux.js.org/introduction/three-principles)
+- [Three Principles](https://redux.js.org/introduction/three-principles)
 
 This is from the Redux Docs itself and is probably one of the most important things to keep going back to.
 
-[Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+- [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
 
 Part of a three part series with this one being about how to manage state. It has a lot of good diagrams and is worth the read. 
 
-[Redux Tutorial #1 - Reactjs Tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+- [Redux Tutorial #1 - Reactjs Tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
 A bit sized video on how Redux works at around 7 minutes long.
 
