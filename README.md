@@ -65,7 +65,7 @@ A timeless book on software project management. A list of essays that draw from 
 
 [How to Solve It](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=dp_ob_title_bk)
 
-A book that was written in 1942 but has a ton of timeless advice to approach problem solving. It's more mathematical based but a lot of the questions/methods can be applied to solving problems in programming/algorithm problems
+A book that was written in 1945 but has a ton of timeless advice to approach problem solving. It's more mathematical based but a lot of the questions/methods can be applied to solving problems in programming/algorithm problems
 
 
 ## Github Repos
