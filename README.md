@@ -63,6 +63,10 @@ A great guide on more "soft skills" in a life of a professional developer. Topic
 
 A timeless book on software project management. A list of essays that draw from experience of being a project manager and how systems scale or don't. This is more for leadership roles but we all know you will be leaders in software development one day. So, it's good to get started.
 
+[How to Solve It](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=dp_ob_title_bk)
+
+A book that was written in 1942 but has a ton of timeless advice to approach problem solving. It's more mathematical based but a lot of the questions/methods can be applied to solving problems in programming/algorithm problems
+
 
 ## Github Repos
 
@@ -212,3 +216,5 @@ A bit sized video on how Redux works at around 7 minutes long.
 [Node Weekly](https://nodeweekly.com/)
 
 [ReactJS Newsletter](http://reactjsnewsletter.com/)
+
+[Daily Coding Problem](https://www.dailycodingproblem.com/)
