@@ -103,6 +103,13 @@ Abramov is the co-creator of Redux and create-react-app
 - [Github](https://github.com/gaearon)
 - [Twitter](https://twitter.com/dan_abramov)
 
+### Kent C. Dodds
+
+The React Guru
+- [Website](https://kentcdodds.com/)
+- [Github](https://github.com/kentcdodds)
+- [Twitter](https://twitter.com/kentcdodds)
+
 ### Doug Crockford
 
 Discoverer of the JSON format and author of two awesome books: JavaScript: The Good Parts and How JavaScript Works
