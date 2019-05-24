@@ -51,7 +51,12 @@ A nice complement to Cracking the Coding Interview
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
-Commonly referred to as CLRS (authors' last names), this is the bible of Algorithms at a monstrous 1300+ pages. 
+Commonly referred to as CLRS (authors' last names), this is the bible of Algorithms at a monstrous 1300+ pages.
+
+[Algorithms in JS Repo](https://github.com/trekhleb/javascript-algorithms)
+
+### System Design
+[System Design Repo](https://github.com/donnemartin/system-design-primer)
 
 ### Other
 
