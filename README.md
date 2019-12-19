@@ -183,8 +183,6 @@ A more bit sized video at around 12 minutes long.
 - [The Complete Guide to Forms in React](https://medium.com/@agoiabeladeyemi/the-complete-guide-to-forms-in-react-d2ba93f32825)
 
 
-
-
 ### Node
 
 - [What the Heck is Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -194,6 +192,16 @@ An excellent talk about how the event loop works in JavaScript. I'd argue probab
 - [The Definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 Again, same idea as the handbooks above: more book than article but fantastic nonetheless.
+
+- [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+
+- [A Complete Guide to the Node.js Event Loop](https://blog.logrocket.com/a-complete-guide-to-the-node-js-event-loop/)
+
+### Express
+
+- [The Express Handbook](https://edgeconsult.me/lib/Software%20Development/NodeJS/express-handbook.pdf)
+
+- [Express Crash Course](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 
 
 ### Data Structures and Algorithms
